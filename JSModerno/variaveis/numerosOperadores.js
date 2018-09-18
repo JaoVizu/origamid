@@ -23,3 +23,6 @@ console.log(isNaN(divisaoStr));
 //diferente de um nao numero - por isso retorna false
 console.log(!isNaN(divisaoStr));
 
+let x = 5;
+console.log(x++);
+console.log(++x);
